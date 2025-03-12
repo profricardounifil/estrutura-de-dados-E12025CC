@@ -5,7 +5,7 @@ public class MainListaDinamica {
         turma.inserirValor("Isabely");
         turma.inserirValor("Jorge");
         turma.inserirValor("Eduardo");
-        turma.removerValor("Eduardo");
+        turma.removerValor("AIFJO");
         turma.verLista();
     }
 }

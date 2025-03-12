@@ -59,6 +59,9 @@ public class ListaDinamica {
         } else {
             if(verificaExistencia(conteudo)){
                 while (aux != null) {
+                    if(aux.getProx() == null) {
+                        return;
+                    }
                     if(aux.getProx().getConteudo() == conteudo) {
                         aux.setProx(aux.getProx().getProx());
                         return;
