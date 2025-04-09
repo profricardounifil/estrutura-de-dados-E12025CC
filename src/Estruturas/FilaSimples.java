@@ -1,3 +1,5 @@
+package Estruturas;
+
 public class FilaSimples {
     private int tamanho;
     private String[] fila;

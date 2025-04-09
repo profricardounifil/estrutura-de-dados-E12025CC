@@ -1,3 +1,5 @@
+package Estruturas;
+
 public class No {
     private String conteudo;
     private No prox;

@@ -1,3 +1,5 @@
+package Estruturas;
+
 public class ListaDinamica {
     private No primeiro;
 

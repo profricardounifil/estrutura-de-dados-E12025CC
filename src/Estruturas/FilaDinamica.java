@@ -1,3 +1,5 @@
+package Estruturas;
+
 public class FilaDinamica {
     private No primeiro;
     private No ultimo;

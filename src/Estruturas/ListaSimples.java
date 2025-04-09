@@ -1,3 +1,5 @@
+package Estruturas;
+
 public class ListaSimples {
     private int tamanho;
     Integer [] lista;

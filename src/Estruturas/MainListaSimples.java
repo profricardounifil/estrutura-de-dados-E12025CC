@@ -1,3 +1,5 @@
+package Estruturas;
+
 public class MainListaSimples {
     public static void main(String[] args) {
         ListaSimples listaSimples = new ListaSimples(10);
